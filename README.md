@@ -1,6 +1,6 @@
 
 
-# Andy B's KBD67 Mechanical Keyboard
+# BalasaKeeb KBD67 Mechanical Keyboard
 
 ### **Software:** VIA
         
@@ -35,8 +35,11 @@
 
     https://divinikey.com/collections/kbd67-lite/products/kbdfans-kbd67-mkii-hot-swap-pcb
   
+  > Tempest Tape Mod (for extra Thocck)
+ 
+    https://www.youtube.com/watch?v=g7-syoxeIBQ
   
-#### **Plate:** AVX KBD67 Lite FR4 Plate - Black
+#### **Plate:** AVX FR4 Plate - Black
 
     https://avxworks.com/products/kbd67-lite-fr4-plate
   
@@ -58,9 +61,7 @@
  
   > Wire lubed with Krytox XHT-BDZ G1.5 and Krytox GPL 205g0 at actuation<br> 
   > Stems filled with Dielectic Grease<br>
-  > KBDfans Stabilizer Foam Stickers<br>
-       
-        https://divinikey.com/collections/keyboard-stabilizers/products/kbdfans-stabilizer-foam-stickers
+  > Stabilizer Foam Stickers<br>
      
      
 #### **Keycaps:** Cherry Taro - PBT Dyesub Keycaps
@@ -71,10 +72,4 @@
   > ** Electric tape inserted between Stabilizer Stem and Spacebar for tighter tolerance
   
         https://stupidfish.design/collections/spacebar-foams
-  
-#### **Mods:** <br>
- > PCB Tempest Tape Mod
- 
-    https://www.youtube.com/watch?v=g7-syoxeIBQ
-  
   
