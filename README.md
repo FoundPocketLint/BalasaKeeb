@@ -3,6 +3,8 @@
 # BalasaKeeb KBD67 Mechanical Keyboard
 
 ### **Software:** VIA
+        > Remap keys
+        > Enable RGB
         
         https://www.caniusevia.com/
         
