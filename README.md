@@ -9,17 +9,11 @@
    [https://www.caniusevia.com/](https://www.caniusevia.com/)
         
 ### **Typing Tests**<br>
-#### MonkeyType
-
-   [https://monkeytype.com/](https://monkeytype.com/)
+#### [MonkeyType](https://monkeytype.com/)
         
-#### typings.gg
-
-   [https://typings.gg/](https://typings.gg/)
+#### [typings.gg](https://typings.gg/)
         
-#### typing.works
-
-   [https://typing.works/](https://typing.works/)
+#### [typing.works](https://typing.works/)
         
 ## Parts List
 
@@ -54,7 +48,7 @@
   > Housing and Stems lubed with Krytox GPL 205g0<br>
   > Filmed with Wuque Studio PC Switch Films<br>
       
-   [https://cannonkeys.com/products/ws-switch-films?variant=40725520908399](https://cannonkeys.com/products/ws-switch-films?variant=40725520908399)
+   [https://cannonkeys.com/products/ws-switch-films](https://cannonkeys.com/products/ws-switch-films?variant=40725520908399)
 
 
 #### Owlab Owlstab V2 Screw-In Stabilizers
