@@ -54,6 +54,9 @@
 
     https://novelkeys.com/products/cherry-taro
   
+  ##### - StupidFish NicePBT Spacebar Foam
+  
+        https://stupidfish.design/collections/spacebar-foams
   
 #### **Mods:** <br>
  PCB Tempest Tape Mod
