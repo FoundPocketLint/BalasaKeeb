@@ -5,7 +5,20 @@
 ### **Software:** VIA
         
         https://www.caniusevia.com/
+        
+### **Typing Tests**<br>
+#### MonkeyType
 
+        https://monkeytype.com/
+        
+#### typings.gg
+
+        https://typings.gg/
+        
+#### typing.works
+
+        https://typing.works/
+        
 ## Parts List
 
 #### **Case:** KBD67 Alu v3 - Black
