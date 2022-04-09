@@ -68,7 +68,7 @@
     https://novelkeys.com/products/cherry-taro
   
   > StupidFish NicePBT Spacebar Foam <br> 
-  > ** Medical tape inserted between Stabilizer Stem and Spacebar for tighter tolerance
+  > ** Electric tape inserted between Stabilizer Stem and Spacebar for tighter tolerance
   
         https://stupidfish.design/collections/spacebar-foams
   
