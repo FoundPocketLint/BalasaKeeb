@@ -1,6 +1,12 @@
-# BalasaKeeb
-## Andy B's KBD67 Mechanical Keyboard
 
+
+# Andy B's KBD67 Mechanical Keyboard
+
+### **Software:** VIA
+        
+        https://www.caniusevia.com/
+
+## Parts List
 
 #### **Case:** KBD67 Alu v3 - Black
 
@@ -26,9 +32,9 @@
 
     https://dangkeebs.com/products/halu-halo-switches
   
-   - Springs lubed with Krytox GPL 105<br>
-   - Housing and Stems lubed with Krytox GPL 205g0<br>
-   - Switch Filmed with Wuque Studio PC Switch Films<br>
+  ##### - Springs lubed with Krytox GPL 105<br>
+  ##### - Housing and Stems lubed with Krytox GPL 205g0<br>
+  ##### - Switch Filmed with Wuque Studio PC Switch Films<br>
       
           https://cannonkeys.com/products/ws-switch-films?variant=40725520908399
 
@@ -36,10 +42,10 @@
 #### **Stablizers:** Owlab Owlstab V2 Screw-In Stabilizers
 
     https://divinikey.com/products/owlab-owlstabs-v2-screw-in-stabilizers
-  
-   - Wire lubed with Krytox XHT-BDZ G1.5 and Krytox GPL 205g0 at actuation<br> 
-   - Stems filled with Dielectic Grease<br>
-   - KBDfans Stabilizer Foam Stickers<br>
+ 
+  ##### - Wire lubed with Krytox XHT-BDZ G1.5 and Krytox GPL 205g0 at actuation<br> 
+  ##### - Stems filled with Dielectic Grease<br>
+  ##### - KBDfans Stabilizer Foam Stickers<br>
        
           https://divinikey.com/collections/keyboard-stabilizers/products/kbdfans-stabilizer-foam-stickers
      
