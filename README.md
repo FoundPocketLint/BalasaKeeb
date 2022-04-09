@@ -4,7 +4,7 @@
 
 ### **Software:** VIA
    > Remap keys<br>
-   > Enable RGB
+   > Enable RGB  (Remap a key to Fn(1), then check LAYER 1 for mapping)
         
         https://www.caniusevia.com/
         
