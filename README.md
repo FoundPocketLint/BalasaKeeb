@@ -37,7 +37,7 @@
   
   > Tempest Tape Mod (for extra Thocck)
  
-    https://www.youtube.com/watch?v=g7-syoxeIBQ
+        https://www.youtube.com/watch?v=g7-syoxeIBQ
   
 #### **Plate:** AVX FR4 Plate - Black
 
@@ -69,7 +69,7 @@
     https://novelkeys.com/products/cherry-taro
   
   > StupidFish NicePBT Spacebar Foam <br> 
-  > ** Electric tape inserted between Stabilizer Stem and Spacebar for tighter tolerance
+  > Electric tape insert between Stabilizer Stem and Spacebar (for tighter tolerance)
   
         https://stupidfish.design/collections/spacebar-foams
   
